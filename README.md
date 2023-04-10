@@ -19,7 +19,7 @@ instagrame-hacking is a bash based script which is officially made to test passw
     sudo apt-get update
     sudo apt-get install git
     sudo apt install python3
-    git clone https://github.com/akashblackhat/instagrame-hacking.py.git
+    git clone https://github.com/akashblackhat/instagrame-hacking.git
     ls
     cd instagrame-hacking.py
     ls
@@ -31,7 +31,7 @@ instagrame-hacking is a bash based script which is officially made to test passw
     pkg install python3 -y
     pkg install git -y
     pip install lolcat
-    git clone https://github.com/akashblackhat/instagrame-hacking.py.git
+    git clone https://github.com/akashblackhat/instagrame-hacking.git
     ls
     cd instagrame-hacking.py
     python3 instagrame-hacking.py
